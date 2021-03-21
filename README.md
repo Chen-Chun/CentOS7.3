@@ -1,13 +1,17 @@
-# CentOS7.3
-課堂祕技
+# CentOS 7.3 課堂祕技
+* 使用軟體 : VirtualBox
 
 ## Week1
+* 前言
+* 解決VirtualBox黑頻
 
 ## Week2
 
 ## Week3
 
 ## Week4
+* 產生SSH KEY並進行免密碼登入
+* 重設root的帳號
 
 ## Week5
 
